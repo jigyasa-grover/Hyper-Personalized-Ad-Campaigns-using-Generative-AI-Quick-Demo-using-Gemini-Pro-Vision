@@ -6,6 +6,8 @@ In the vast and ever-evolving landscape of online advertising, campaigns come in
 
 Imagine a town crier in the bustling digital marketplace, ringing their bell and shouting the message to the entire crowd 📣 Similarly, general ad campaigns broadcast a brand’s message to a wide audience with the hope that it will resonate with at least a portion of the online population!
 
+![image](https://github.com/jigyasa-grover/Hyper-Personalized-Ad-Campaigns-using-Generative-AI-Quick-Demo-using-Gemini-Pro-Vision/assets/9291400/498917e4-64d4-4404-ac93-a14e11e7f4da)
+
 Let us take the example of the latest smartphone by a company called Blueberry 🫐. Blueberry launched an ad campaign featuring the phone’s sleek design and advanced features. This campaign is shown to a broad audience without any tweaks across multiple websites, social platforms, and apps, aiming to create awareness and generate interest in the general population.
 
 ### TL;DR General Ad Campaigns
@@ -18,6 +20,8 @@ Let us take the example of the latest smartphone by a company called Blueberry �
 
 Think of them as a skilled tailor who takes note of your preferences and style. In online advertising, this involves using data (such as your browsing history, search terms, and basic demographics) to deliver more relevant ads. It’s like stepping into a store where the racks magically display items in your favorite colors and styles!
 
+![image](https://github.com/jigyasa-grover/Hyper-Personalized-Ad-Campaigns-using-Generative-AI-Quick-Demo-using-Gemini-Pro-Vision/assets/9291400/8cffe820-f7fb-437a-95c5-b09b36d431c2)
+
 Imagine you have been browsing travel blogs and websites about tropical destinations 🏝️ The next time you are online, you start seeing ads for beach resorts, flights to exotic islands, and travel packages that align with your apparent interests – this is what personalized ads look like.
 
 ### TL;DR Personalized Ad Campaigns
@@ -29,6 +33,8 @@ Imagine you have been browsing travel blogs and websites about tropical destinat
 ## Your Personal Stylist: Hyper-Personalized Ad Campaigns
 
 Now, picture having your own personal stylist who knows your tastes inside-out anticipates your needs, and delights you with spot-on recommendations! Hyper-personalized ad campaigns strive to achieve this level of intimacy in the digital world. They leverage AI to analyze a vast array of data points, creating ads that feel incredibly personal and timely ⌚️
+
+![image](https://github.com/jigyasa-grover/Hyper-Personalized-Ad-Campaigns-using-Generative-AI-Quick-Demo-using-Gemini-Pro-Vision/assets/9291400/1a606a49-a0fd-407a-9a95-02be27954df6)
 
 Suppose it is a hot summer day and your real-time location data shows you are strolling near a popular ice cream parlor 🍦 Suddenly, you receive a notification or see an ad on your phone offering a refreshing discount on a cold treat – just when you need it the most!
 
